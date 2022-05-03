@@ -39,3 +39,7 @@
   - [Challenge on freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
   - [Boilerplate code on GitHub](https://github.com/freeCodeCamp/boilerplate-medical-data-visualizer)
   - [Solution on Replit](https://replit.com/@iliyabu/medical-data-visualizer)
+- Page View Time Series Visualizer
+  - [Challenge on freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
+  - [Boilerplate code on GitHub](https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer)
+  - [Solution on Replit](https://replit.com/@iliyabu/page-view-time-series-visualizer)
