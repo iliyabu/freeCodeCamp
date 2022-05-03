@@ -43,3 +43,7 @@
   - [Challenge on freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
   - [Boilerplate code on GitHub](https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer)
   - [Solution on Replit](https://replit.com/@iliyabu/page-view-time-series-visualizer)
+- Sea Level Predictor
+  - [Challenge on freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
+  - [Boilerplate code on GitHub](https://github.com/freeCodeCamp/boilerplate-sea-level-predictor)
+  - [Solution on Replit](https://replit.com/@iliyabu/sea-level-predictor)
